@@ -39,8 +39,8 @@ This is a simple social media API built with Python and FastAPI. It allows users
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone <https://github.com/JoseAyobami/grp-1-ass>
+    cd <grp-1-ass>
     ```
 
 2.  **Create and activate a virtual environment:**
